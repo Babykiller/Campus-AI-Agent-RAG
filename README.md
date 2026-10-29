@@ -26,6 +26,7 @@ An end-to-end Retrieval-Augmented Generation (RAG) assistant designed for campus
 └── chroma_db/           # Local persistent vector database directory
 
 Getting Started
-Clone the repository and navigate to the project directory.
+##Clone the repository and navigate to the project directory.
+```text
 git clone https://github.com/Babykiller/Campus-AI-Agent-RAG.git
 cd Campus-AI-Agent-RAG
