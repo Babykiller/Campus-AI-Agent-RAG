@@ -24,3 +24,8 @@ An end-to-end Retrieval-Augmented Generation (RAG) assistant designed for campus
 ├── chroma_demo.py       # Script to generate and persist the vector database
 ├── knowledge.txt        # Source knowledge base (plain text)
 └── chroma_db/           # Local persistent vector database directory
+
+Getting Started
+Clone the repository and navigate to the project directory.
+git clone https://github.com/Babykiller/Campus-AI-Agent-RAG.git
+cd Campus-AI-Agent-RAG
